@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,8 +29,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 <!---LeetCode Topics End-->

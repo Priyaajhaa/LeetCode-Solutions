@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +52,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 <!---LeetCode Topics End-->

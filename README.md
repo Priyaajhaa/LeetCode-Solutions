@@ -115,4 +115,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->

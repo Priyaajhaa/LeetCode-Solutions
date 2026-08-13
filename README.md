@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -173,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->

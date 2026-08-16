@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [2029-stone-game-ix](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -120,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -132,18 +136,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |

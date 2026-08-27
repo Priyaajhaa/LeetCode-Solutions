@@ -1,0 +1,66 @@
+class Solution {
+    public String lexGreaterPermutation(String s, String target) {
+        int n = s.length();
+
+        int[] freq = new int[26];
+
+        for (char c : s.toCharArray()) {
+            freq[c - 'a']++;
+        }
+
+        // Try to make the answer greater at position i,
+        // starting from the rightmost position.
+        for (int i = n - 1; i >= 0; i--) {
+
+            int[] remaining = freq.clone();
+
+            // Match target[0 ... i-1]
+            boolean possible = true;
+
+            for (int j = 0; j < i; j++) {
+                int c = target.charAt(j) - 'a';
+
+                if (remaining[c] == 0) {
+                    possible = false;
+                    break;
+                }
+
+                remaining[c]--;
+            }
+
+            if (!possible) {
+                continue;
+            }
+
+            // At position i, choose the smallest character
+            // strictly greater than target[i].
+            int targetChar = target.charAt(i) - 'a';
+
+            for (int c = targetChar + 1; c < 26; c++) {
+                if (remaining[c] > 0) {
+
+                    StringBuilder ans = new StringBuilder();
+
+                    // Prefix equal to target
+                    ans.append(target, 0, i);
+
+                    // Make it strictly greater
+                    ans.append((char) ('a' + c));
+                    remaining[c]--;
+
+                    // Put remaining characters in sorted order
+                    for (int ch = 0; ch < 26; ch++) {
+                        while (remaining[ch] > 0) {
+                            ans.append((char) ('a' + ch));
+                            remaining[ch]--;
+                        }
+                    }
+
+                    return ans.toString();
+                }
+            }
+        }
+
+        return "";
+    }
+}

@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 ## String
 | Problem Name | Difficulty |

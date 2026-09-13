@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0486-predict-the-winner](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0835-image-overlap](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |

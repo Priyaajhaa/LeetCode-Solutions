@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-image-overlap](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
@@ -380,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Floyd's Cycle Finding Algorithm
@@ -451,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Priyaajhaa/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
